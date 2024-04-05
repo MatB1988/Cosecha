@@ -12,6 +12,6 @@ Es importante destacar que los análisis se han realizado utilizando bases de da
 
 Dentro del repositorio, se encuentran los siguientes archivos:
 
-- [NOTEBOOK](https://github.com/MatB1988/Cosecha/Notebook): Contiene el código en formato Jupiter Notebook, donde se realiza el modelado de aprendizaje automático y el análisis correspondiente.
+- [NOTEBOOK](https://github.com/MatB1988/Cosecha/tree/main/Notebook): Contiene el código en formato Jupiter Notebook, donde se realiza el modelado de aprendizaje automático y el análisis correspondiente.
 - [TABLERO](https://youtu.be/CuFLqRLiQw0): Aunque se encuentra vacío, puedes hacer clic aquí para acceder al video en YouTube que muestra la funcionalidad del tablero.
-- [DATASET](https://github.com/MatB1988/Cosecha/Dataset): Aquí se encuentran los distintos conjuntos de datos utilizados para el análisis.
+- [DATASET](https://github.com/MatB1988/Cosecha/tree/main/Dataset): Aquí se encuentran los distintos conjuntos de datos utilizados para el análisis.
