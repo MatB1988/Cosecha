@@ -2,16 +2,16 @@
   <img src="https://i.ibb.co/kM7qWsS/logo1.png" width="100">
 </p>
 
-# Cosecha
+# Proyecto Cosecha
 
-El siguiente proyecto se realizo con la impronta de tener un cliente que no esta utilizando Data en el seguimiento de sus campos, si bien hacen seguimiento de productividad, costos, etc. No se vienen aplicandos analisis de datos.
+Este proyecto surge de la necesidad de un cliente que aún no ha implementado el uso de datos en el seguimiento de sus campos agrícolas. Aunque llevan un registro de productividad, costos, entre otros aspectos, no han realizado análisis de datos significativos hasta el momento.
 
-Con lo cual se genera un tablero para mostrar lo que se puede analisis y seguir desde el mismo, ademas se hace un modelo de machine learning donde se busca el rendimiento por cultivo y los factores que mas afectan a ese rendimiento. 
+Con el objetivo de brindar una solución integral, se ha desarrollado un tablero que permite visualizar y analizar diversas métricas relevantes para el seguimiento de los cultivos. Además, se ha creado un modelo de aprendizaje automático para predecir el rendimiento por cultivo y identificar los factores que más influyen en dicho rendimiento.
 
-Los analisis se hicieron con base de datos externas conseguidas en internet, no se ha logrado agregar ningu tipo de analisis financiero ya que no se contaban con datos. Si bien esto da un panorama con recursos y la base de datos del cliente se puede mejorar mucho mas y le da un parametro al cliente de lo que tiene el en datos y los que puede sumar a su base o empezar a medir.
+Es importante destacar que los análisis se han realizado utilizando bases de datos externas obtenidas en internet. Aunque no se han incorporado análisis financieros debido a la falta de datos disponibles, este proyecto proporciona una visión general y establece un punto de partida para futuras mejoras. Con la incorporación de los datos del cliente, se podrá optimizar aún más el análisis y proporcionar una guía sólida para la toma de decisiones.
 
-Dentro del repositorio se encuentra los siguientes archivos:
+Dentro del repositorio, se encuentran los siguientes archivos:
 
-- [NOTEBOOK](https://github.com/MatB1988/Cosecha/Notebook): Jupiter Notebook donde se realiza el modelo de machine learning y el analisis correspondiente.
-- [TABLERO](https://youtu.be/CuFLqRLiQw0): Se encuentra vacio pero si le das click aca te lleva a youtube donde podras ver el video del mismo.
-- [DATASET](https://github.com/MatB1988/Cosecha/Dataset): Se disponen los distintos dataset utilizados para el analsis.
+- [NOTEBOOK](https://github.com/MatB1988/Cosecha/Notebook): Contiene el código en formato Jupiter Notebook, donde se realiza el modelado de aprendizaje automático y el análisis correspondiente.
+- [TABLERO](https://youtu.be/CuFLqRLiQw0): Aunque se encuentra vacío, puedes hacer clic aquí para acceder al video en YouTube que muestra la funcionalidad del tablero.
+- [DATASET](https://github.com/MatB1988/Cosecha/Dataset): Aquí se encuentran los distintos conjuntos de datos utilizados para el análisis.
